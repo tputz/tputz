@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tputz
+- 👋 Hi, I’m Thomas
 - 👀 I’m interested in GITHUB
 - 🌱 I’m currently learning GITHUB
 - 💞️ I’m looking to collaborate on GITHUB
